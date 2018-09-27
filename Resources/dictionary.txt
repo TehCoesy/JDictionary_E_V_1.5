@@ -1,0 +1,12 @@
+Cat<Meo<NOUN
+Dog<Cho<NOUN
+Thinh<Meo<NOUN
+Minh<Cho<NOUN
+Leet<Elite<NOUN
+Book<Sach<NOUN
+Mouse<Chuot<NOUN
+Computer<May Tinh<NOUN
+Upload<Dang<VERB
+Download<Tai<VERB
+Laugh<Cuoi<VERB
+Laughter<Tieng Cuoi<NOUN
